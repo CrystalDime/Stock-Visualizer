@@ -5,9 +5,12 @@ A program that accepts a stock tag and returns a graph which documents the price
 Just run the code and enter a stock
 
 
-Dependencies:
+# Dependencies:
 
 Requests
+
 Pandas
+
 Madplotlib
+
 Bs4
